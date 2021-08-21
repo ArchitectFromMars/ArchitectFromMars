@@ -12,6 +12,7 @@
 ### Languages and Tools:
 
 * React.js
+* Git/GitHub
 * vanilla JavaScript
 * Node.js
 * mongoDB
